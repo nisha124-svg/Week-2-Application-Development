@@ -1,0 +1,14 @@
+/Users/jharanabhattarai/Desktop/dotnet/Task1/Task1/bin/Debug/net9.0/Task1
+/Users/jharanabhattarai/Desktop/dotnet/Task1/Task1/bin/Debug/net9.0/Task1.deps.json
+/Users/jharanabhattarai/Desktop/dotnet/Task1/Task1/bin/Debug/net9.0/Task1.runtimeconfig.json
+/Users/jharanabhattarai/Desktop/dotnet/Task1/Task1/bin/Debug/net9.0/Task1.dll
+/Users/jharanabhattarai/Desktop/dotnet/Task1/Task1/bin/Debug/net9.0/Task1.pdb
+/Users/jharanabhattarai/Desktop/dotnet/Task1/Task1/obj/Debug/net9.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jharanabhattarai/Desktop/dotnet/Task1/Task1/obj/Debug/net9.0/Task1.AssemblyInfoInputs.cache
+/Users/jharanabhattarai/Desktop/dotnet/Task1/Task1/obj/Debug/net9.0/Task1.AssemblyInfo.cs
+/Users/jharanabhattarai/Desktop/dotnet/Task1/Task1/obj/Debug/net9.0/Task1.csproj.CoreCompileInputs.cache
+/Users/jharanabhattarai/Desktop/dotnet/Task1/Task1/obj/Debug/net9.0/Task1.dll
+/Users/jharanabhattarai/Desktop/dotnet/Task1/Task1/obj/Debug/net9.0/refint/Task1.dll
+/Users/jharanabhattarai/Desktop/dotnet/Task1/Task1/obj/Debug/net9.0/Task1.pdb
+/Users/jharanabhattarai/Desktop/dotnet/Task1/Task1/obj/Debug/net9.0/Task1.genruntimeconfig.cache
+/Users/jharanabhattarai/Desktop/dotnet/Task1/Task1/obj/Debug/net9.0/ref/Task1.dll
