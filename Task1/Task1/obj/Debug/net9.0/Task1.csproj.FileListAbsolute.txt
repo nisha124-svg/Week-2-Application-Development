@@ -12,3 +12,4 @@
 /Users/jharanabhattarai/Desktop/dotnet/Task1/Task1/obj/Debug/net9.0/Task1.pdb
 /Users/jharanabhattarai/Desktop/dotnet/Task1/Task1/obj/Debug/net9.0/Task1.genruntimeconfig.cache
 /Users/jharanabhattarai/Desktop/dotnet/Task1/Task1/obj/Debug/net9.0/ref/Task1.dll
+/Users/jharanabhattarai/Desktop/dotnet/Task1/Task1/obj/Debug/net9.0/Task1.sourcelink.json
